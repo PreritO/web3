@@ -1,0 +1,3 @@
+[submodule "alchemy_university/week1/ecdsa-node"]
+	path = alchemy_university/week1/ecdsa-node
+	url = https://github.com/PreritO/ecdsa-node
